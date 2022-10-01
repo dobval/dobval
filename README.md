@@ -1,6 +1,6 @@
 - Hi, I’m @dendybendy
-- I’m interested in Linux, Web development, Games
-- I’m currently learning C, C#, Python
+- I’m interested in Linux, Web development, Graphic design, Games
+- I’m currently learning C, C#, Java, Python, HTML/CSS, Javascript, Figma, GIMP, Inkscape, 
 
 <!---
 dendybendy/dendybendy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
