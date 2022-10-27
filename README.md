@@ -1,4 +1,4 @@
-- Hi, I’m @dendybendy
+- Hi, I’m @dobval
 - I’m interested in Linux, Web development, Graphic design, Games
 - I’m currently learning C, C#, Java, Python, HTML/CSS, Javascript, Figma, GIMP, Inkscape, 
 
