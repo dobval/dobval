@@ -1,6 +1,6 @@
 - Hi, I’m @dobval
-- I’m interested in Linux, Web development, Graphic design, Games
-- I’m currently learning C, C#, Java, Python, HTML/CSS, Javascript, Figma, GIMP, Inkscape, 
+- I’m interested in Linux, Data Analysis, Machine Learning, Games
+- I’m currently learning C#, Python
 
 <!---
 dendybendy/dendybendy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
