@@ -1,6 +1,6 @@
 - Hi, I’m @dobval
 - I’m interested in Linux, Data Analysis, Machine Learning, Games
-- I’m currently learning C#, C++, C, Python
+- I’m currently learning Python, C++, C,Java
 
 <!---
 dendybendy/dendybendy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
