@@ -1,5 +1,5 @@
 - Hi, I’m @dobval
-- I’m interested in Linux, Data Analysis, Machine Learning, Games
+- I’m interested in Linux, Data Analysis, Machine Learning
 - I’m currently learning Python, C++, C, Java
 
 <!---
