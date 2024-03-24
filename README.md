@@ -1,8 +1,6 @@
 - Hi, I’m @dobval
 - I’m interested in Linux, Data Analysis, Machine Learning
-- I’m currently learning Python, C++, C, Java
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+- I’m currently learning Python, C/C++
 
 ###
 
