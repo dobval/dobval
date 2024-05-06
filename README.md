@@ -1,5 +1,5 @@
 - Hi, I’m Dobromir Valentinov
-- I’m interested in Linux, Data Analysis, Machine Learning
+- I’m interested in Linux, Data Engineering, Cloud
 - I’m currently learning Python, C/C++
 
 ###
