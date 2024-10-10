@@ -6,7 +6,6 @@
 --->
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dobval&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dobval&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_progress=true&hide_border=false" height="150" alt="languages graph"  />
@@ -64,6 +63,9 @@
 
 ###
 
+<!-- HOLOPIN (HACKTOBERFEST) 
+[![An image of @dobval's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dobval)](https://holopin.io/@dobval)
+--->
 <!---
 dendybendy/dendybendy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
