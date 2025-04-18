@@ -57,11 +57,13 @@
 
 ###
 
+<!---
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dobval/dobval/output/snake.svg" alt="Snake animation" />
 
 ###
+--->
 
 <!-- HOLOPIN (HACKTOBERFEST) 
 [![An image of @dobval's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dobval)](https://holopin.io/@dobval)
